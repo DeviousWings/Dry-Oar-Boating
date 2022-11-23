@@ -1,0 +1,6 @@
+
+6.Lastly, make your links in the navigation section of the .html page working 
+links by changing the # and make it the pagename.html ...
+"index.html" is for Home
+"site-plan-rafting.html" for the Site Map... the two child pages: 
+contactus.html and aboutus.html are written the same way...
